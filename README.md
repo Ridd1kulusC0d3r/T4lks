@@ -1,33 +1,33 @@
 # T4lks • Deivison Lourenço
 
-**Palestras, workshops, artigos e registros de eventos.**
+**Palestras, workshops e materiais sobre OSINT, investigação digital, cibersegurança e psicologia.**
 
-Um ponto de encontro para consultar temas apresentados e acessar slides, materiais complementares, gravações e fotos.
+[Explorar palestras por ano](palestras/README.md) · [Slides](slides/README.md) · [Artigos](artigos/README.md) · [Fotos](fotos/README.md) · [Gravações](gravacoes/README.md)
 
-## Navegação
+## Acervo
 
-| Procurando… | Acesse |
-|---|---|
-| Palestras por data e evento | [Catálogo](palestras/README.md) |
-| Apresentações PPTX e PDF | [Slides](slides/README.md) |
-| Textos e publicações relacionadas | [Artigos](artigos/README.md) |
-| Registros fotográficos | [Fotos](fotos/README.md) |
-| Vídeos e gravações | [Gravações](gravacoes/README.md) |
-| Adicionar uma palestra | [Guia de publicação](CONTRIBUTING.md) |
-| Modelo de página individual | [Ficha da palestra](templates/palestra.md) |
+- **23 registros** fornecidos pelo autor, de 2019 a 2026.
+- **2 registros históricos adicionais**, de 2016 e 2021, a confirmar.
+- **5 PDFs preservados** do repositório Palestras.
+- Cada palestra tem uma página e espaços próprios para enviar PPTX, artigos e fotos ou cadastrar gravações.
 
-## Catálogo em preparação
+## Destaques recentes
 
-A estrutura está pronta para receber as palestras. A lista de eventos ainda depende da conferência da [fonte no Notion](https://app.notion.com/p/Palestras-Ministradas-1ef6e06cc2d980f0ab91f153790bfbfe), que pode exigir acesso.
+| Ano | Evento | Tema |
+|---|---|---|
+| 2026 | UaiSINT | [T.O.C.A.I.A e inteligência da ausência](palestras/2026/uaisint-tocaia.md) |
+| 2026 | OSINTOMATICO | [Behavioral OSINT](palestras/2026/osintomatico-behavioral.md) |
+| 2026 | BRHueCon | [Zero-Point Detection](palestras/2026/brhuecon-zero-point.md) |
+| 2026 | Digital Investigation Conference Brasil | [OSINT e elicitação](palestras/2026/dicb-elicitacao.md) |
 
-Nenhuma palestra foi cadastrada nesta reorganização sem confirmação de título, evento e data.
+## Adicionar materiais
 
-## Organização dos materiais
+Abra a palestra no catálogo e escolha **Adicionar / consultar**. Cada pasta tem um link para enviar arquivos. Depois do upload, inclua o link do arquivo na ficha. Os espaços de materiais não significam que os arquivos já estejam disponíveis.
 
-Cada palestra terá uma página em `palestras/ANO/slug-do-evento.md`, com links para os materiais disponíveis. Arquivos podem ficar nas pastas deste repositório ou em serviços externos.
+[Guia de publicação](CONTRIBUTING.md) · [Modelo](templates/palestra.md) · [Relatório de migração](MIGRACAO.md)
 
-**PPTX, artigo e foto são materiais independentes:** uma palestra pode ter apenas alguns deles. Materiais ausentes serão identificados como “A adicionar”, sem links fictícios.
+## Precisão do histórico
 
-## Autoria e créditos
+Datas e títulos têm como fonte o texto fornecido pelo autor. Datas incompletas não foram inventadas. A divergência 2018/2019 de Nomofobia e o registro de neurose obsessiva de 2021 estão documentados nas fichas e no relatório de migração.
 
-Ao publicar materiais, registre autoria, coautoria e créditos de fotografias. Condições de reutilização devem ser informadas por material; este índice não concede licença geral sobre conteúdo de terceiros.
+Fotos citadas como “image.png” não foram recebidas. Slides, artigos e fotografias mantêm os direitos de seus autores; consulte condições específicas antes de reutilizar.

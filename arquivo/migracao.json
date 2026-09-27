@@ -1,0 +1,36 @@
+{
+  "source_repository": "Ridd1kulusC0d3r/Palestras",
+  "source_commit": "d4a8477d607e32198c8c7d5868413df64d2f4532",
+  "files": [
+    {
+      "source": "cyber/Xperts.pdf",
+      "destination": "slides/2023/xperts-carreira.pdf",
+      "bytes": 2419328,
+      "sha256": "dab8d24175c101ef23df9e5d9ce62eee9a80bcf74724f5ba96711b733f54ee0c"
+    },
+    {
+      "source": "cyber/h2hc- HUMINT.pdf.pdf",
+      "destination": "slides/2023/h2hc-osint-humint.pdf",
+      "bytes": 2879482,
+      "sha256": "8115e9fb44baf98ebec332e8f8f32e0b2fcc12f37e0c9c0be692d76818cfe8b4"
+    },
+    {
+      "source": "cyber/Apresentação sem título.pdf",
+      "destination": "slides/2023/h2hc-habitos.pdf",
+      "bytes": 3409855,
+      "sha256": "814169cf392bd9d966b03727d59a4f80ceb2395cc6bacc7bef90427d689da83c"
+    },
+    {
+      "source": "biohacking/BIohacking e a necessidade do aprimoramento (4).pdf",
+      "destination": "slides/2023/h2hc-biohacking.pdf",
+      "bytes": 1007391,
+      "sha256": "cbb436cfba2c1141ded2667e8cde73945abeba5842e008c438917df27e4bbc5f"
+    },
+    {
+      "source": "PSI/Neurose obssessiva Curso da uma análise.pdf",
+      "destination": "slides/2021/pitagoras-caso-neurose.pdf",
+      "bytes": 1611740,
+      "sha256": "e12be59cda225fb7160a66dd245e62b43ca11aaf68634025012300282eba242e"
+    }
+  ]
+}
