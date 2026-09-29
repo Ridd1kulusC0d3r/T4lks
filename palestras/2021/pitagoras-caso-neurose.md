@@ -8,7 +8,7 @@
 | Evento | Faculdade Pitágoras |
 | Local | Não informado |
 | Palestrante | Deivison Lourenço |
-| Fonte | Acervo Palestras; registro histórico a confirmar |
+| Fonte | Acervo Palestras, categoria Psicologia; registro histórico a confirmar |
 
 ## Materiais
 
@@ -20,6 +20,11 @@
 | Gravações | [Adicionar / consultar](../../gravacoes/2021/pitagoras-caso-neurose/README.md) |
 
 O vínculo do PDF com esta apresentação foi preservado a partir do README do acervo Palestras. O conteúdo do PDF não foi revisado nesta migração.
+
+## Proveniência histórica
+
+O README antigo registrava “2021 Um caso de neurose obsessiva Faculdade Pitagoras” na categoria **Psicologia** e apontava diretamente para o PDF hoje preservado em `slides/2021/pitagoras-caso-neurose.pdf`.
+
 ## Conferência pendente
 
 O acervo antigo associa este PDF a 2021. Não foi automaticamente vinculado às duas apresentações de 2022: podem ser eventos distintos.

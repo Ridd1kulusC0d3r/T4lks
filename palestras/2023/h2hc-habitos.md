@@ -21,6 +21,10 @@
 
 O vínculo do PDF com esta apresentação foi preservado a partir do README do acervo Palestras. O conteúdo do PDF não foi revisado nesta migração.
 
+## Proveniência histórica
+
+O README antigo classificava o material em **Cyber**, usava o título “Criaturas de hábitos: Mapeando comportamentos por meio da OSINT para perfilar alvos” e citava **H2HC, village Hacker Culture e Life4Sec**. O catálogo atual mantém “Life4Sec Village”, enquanto a denominação antiga fica preservada como metadado de origem.
+
 ## Créditos
 
 Adicionar coautoria, referências e condições de reutilização de cada material quando disponíveis.

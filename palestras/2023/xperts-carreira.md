@@ -21,6 +21,10 @@
 
 O vínculo do PDF com esta apresentação foi preservado a partir do README do acervo Palestras. O conteúdo do PDF não foi revisado nesta migração.
 
+## Proveniência histórica
+
+O README antigo registrava o material na categoria **Cyber** como “2023 Carreira em Cybersegurança, Xperts”. O catálogo atual mantém a data e o nome do evento mais detalhados, preservando o título antigo como referência de origem.
+
 ## Créditos
 
 Adicionar coautoria, referências e condições de reutilização de cada material quando disponíveis.

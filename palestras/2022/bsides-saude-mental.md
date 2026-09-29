@@ -19,6 +19,9 @@
 | Fotos | [Adicionar / consultar](../../fotos/2022/bsides-saude-mental/README.md) |
 | Gravações | [Adicionar / consultar](../../gravacoes/2022/bsides-saude-mental/README.md) |
 
+## Proveniência histórica
+
+O README antigo registrava este evento na categoria **Biohacking** como “2022 Biohacking e Psicologia - BSIDES-SP”. O título atual, mais específico, foi mantido e o nome antigo passou a funcionar como alias histórico.
 
 ## Créditos
 

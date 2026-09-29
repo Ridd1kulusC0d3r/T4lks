@@ -19,6 +19,9 @@
 | Fotos | [Adicionar / consultar](../../fotos/2016/pitagoras-fundamentos/README.md) |
 | Gravações | [Adicionar / consultar](../../gravacoes/2016/pitagoras-fundamentos/README.md) |
 
+## Proveniência histórica
+
+O README do repositório antigo registrava este item na categoria **Cyber** como “2016 Fundamentos de SI, Faculdade Pitágoras” e informava que o material não estava disponível. Nenhum PDF correspondente existia no estado migrado.
 
 ## Créditos
 

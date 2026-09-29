@@ -21,6 +21,10 @@
 
 O vínculo do PDF com esta apresentação foi preservado a partir do README do acervo Palestras. O conteúdo do PDF não foi revisado nesta migração.
 
+## Proveniência histórica
+
+O README antigo classificava esta palestra em **Biohacking** e usava “2023 Biohacking estamos fazendo isso certo? H2HC”. O catálogo atual preserva a mesma identidade com título normalizado e o contexto de **Biohacking Village**.
+
 ## Créditos
 
 Adicionar coautoria, referências e condições de reutilização de cada material quando disponíveis.

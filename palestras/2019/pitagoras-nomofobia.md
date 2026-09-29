@@ -21,7 +21,7 @@
 
 ## Divergência de data
 
-O autor informou 2019; o README antigo registra 2018. O catálogo usa 2019 e mantém a divergência para conferência, sem duplicar a palestra.
+O autor informou 2019; o README antigo registra **2018** na categoria **Psicologia**, com o título curto “Nomofobia”. O catálogo usa 2019 e mantém 2018 como metadado histórico para conferência, sem duplicar a palestra.
 
 ## Créditos
 

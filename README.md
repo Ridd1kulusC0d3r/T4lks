@@ -9,6 +9,7 @@
 - **23 registros** fornecidos pelo autor, de 2019 a 2026.
 - **2 registros históricos adicionais**, de 2016 e 2021, a confirmar.
 - **5 PDFs preservados** do repositório Palestras.
+- **Metadados históricos recuperados** do antigo catálogo Cyber / Psicologia / Biohacking, sem duplicar eventos.
 - Cada palestra tem uma página e espaços próprios para enviar PPTX, artigos e fotos ou cadastrar gravações.
 
 ## Destaques recentes
@@ -24,10 +25,10 @@
 
 Abra a palestra no catálogo e escolha **Adicionar / consultar**. Cada pasta tem um link para enviar arquivos. Depois do upload, inclua o link do arquivo na ficha. Os espaços de materiais não significam que os arquivos já estejam disponíveis.
 
-[Guia de publicação](CONTRIBUTING.md) · [Modelo](templates/palestra.md) · [Relatório de migração](MIGRACAO.md)
+[Guia de publicação](CONTRIBUTING.md) · [Modelo](templates/palestra.md) · [Relatório de migração](MIGRACAO.md) · [Índice legado recuperado](arquivo/LEGADO-PALESTRAS.md)
 
 ## Precisão do histórico
 
-Datas e títulos têm como fonte o texto fornecido pelo autor. Datas incompletas não foram inventadas. A divergência 2018/2019 de Nomofobia e o registro de neurose obsessiva de 2021 estão documentados nas fichas e no relatório de migração.
+Datas e títulos têm como fonte o texto fornecido pelo autor. Datas incompletas não foram inventadas. A divergência 2018/2019 de Nomofobia, o registro de neurose obsessiva de 2021 e os aliases/taxonomias do repositório antigo estão documentados nas fichas e no índice legado.
 
 Fotos citadas como “image.png” não foram recebidas. Slides, artigos e fotografias mantêm os direitos de seus autores; consulte condições específicas antes de reutilizar.
