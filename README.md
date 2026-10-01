@@ -2,6 +2,8 @@
 
 **Palestras, workshops e materiais sobre OSINT, investigação digital, cibersegurança e psicologia.**
 
+> **Repositório canônico do acervo.** O antigo `Palestras` é tratado como fonte histórica e de proveniência; o catálogo consolidado e as próximas atualizações ficam aqui.
+
 [Explorar palestras por ano](palestras/README.md) · [Slides](slides/README.md) · [Artigos](artigos/README.md) · [Fotos](fotos/README.md) · [Gravações](gravacoes/README.md)
 
 ## Acervo
@@ -10,6 +12,7 @@
 - **2 registros históricos adicionais**, de 2016 e 2021, a confirmar.
 - **5 PDFs preservados** do repositório Palestras.
 - **Metadados históricos recuperados** do antigo catálogo Cyber / Psicologia / Biohacking, sem duplicar eventos.
+- **Última reconciliação:** 2026-10-01. A origem `Palestras` permanece no commit `d4a8477d607e32198c8c7d5868413df64d2f4532`, sem novos arquivos desde a migração.
 - Cada palestra tem uma página e espaços próprios para enviar PPTX, artigos e fotos ou cadastrar gravações.
 
 ## Destaques recentes

@@ -8,6 +8,15 @@ Os cinco PDFs do estado principal foram copiados sem alteração de bytes. O man
 
 Além dos binários, o README antigo foi reconciliado com o catálogo atual. Categorias históricas (`Cyber`, `Psicologia` e `Biohacking`), aliases de títulos, o village antigo de “Criaturas de hábitos” e divergências de data foram preservados no [índice legado](arquivo/LEGADO-PALESTRAS.md) e nas fichas correspondentes.
 
+## Estado da sincronização
+
+Conferência realizada em **2026-10-01**:
+
+- `Palestras/main` continua em `d4a8477d607e32198c8c7d5868413df64d2f4532`.
+- Não há arquivos ou commits novos na origem desde a migração.
+- Os cinco blobs PDF da origem já estão preservados no `T4lks`.
+- O `T4lks` passa a ser a referência canônica para manutenção futura; `Palestras` permanece apenas como fonte histórica enquanto não for arquivado.
+
 ## Divergências preservadas
 
 - Nomofobia: 2018 no README antigo, 2019 no texto mais recente do autor. Usado 2019; confirmar antes de apagar referências históricas.
