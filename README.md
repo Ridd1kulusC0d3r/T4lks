@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/identity/banner.svg" alt="T4lks — Ideias compartilhadas. Conhecimento em movimento." width="100%"></p>
+
 # T4lks • Deivison Lourenço
 
 **Palestras, workshops e materiais sobre OSINT, investigação digital, cibersegurança e psicologia.**
